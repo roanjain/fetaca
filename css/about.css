@@ -1,0 +1,34 @@
+#aboutus,#history,#deandesk{
+padding-top:10%;
+	
+}
+#aboutus:hover,#history:hover,#deandesk:hover{
+background:#212121;
+padding-top:10%;
+color: #ffffff;
+height: 70%;
+transition: all 0.5s ease-In-Out;
+}
+#aboutus:hover{
+    background: rgba(234,173,97,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, , color-stop(0%, rgba(234,173,97,1)), color-stop(92%, rgba(234,173,97,1)), color-stop(100%, rgba(227,142,38,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: radial-gradient(ellipse at center, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaad61', endColorstr='#e38e26', GradientType=1 );
+}
+#history:hover{
+	background: radial-gradient(ellipse at center center , rgb(201, 110, 94) 0%, rgb(206, 135, 126) 0%, rgb(189, 89, 76) 71%, rgb(193, 82, 68) 75%, rgb(185, 93, 85) 100%) repeat scroll 0% 0% transparent;
+}
+#deandesk:hover{
+background: rgba(128,45,65,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, , color-stop(0%, rgba(128,45,65,1)), color-stop(88%, rgba(128,45,65,1)), color-stop(100%, rgba(80,27,40,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: radial-gradient(ellipse at center, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#802d41', endColorstr='#501b28', GradientType=1 );
+}

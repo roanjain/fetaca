@@ -1,0 +1,51 @@
+#admission,#apply,#prospectus,#norms,#report-query,#contact-us{
+padding-top:10%;
+}
+#admission:hover,#apply:hover,#prospectus:hover,#norms:hover,#report-query:hover,#contact-us:hover{
+padding-top:10%;
+color: #ffffff;
+height: 30px;
+transition: all 0.5s ease-In-Out;
+}
+#admission:hover,#contact-us:hover{
+    background: rgba(234,173,97,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, , color-stop(0%, rgba(234,173,97,1)), color-stop(92%, rgba(234,173,97,1)), color-stop(100%, rgba(227,142,38,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+background: radial-gradient(ellipse at center, rgba(234,173,97,1) 0%, rgba(234,173,97,1) 92%, rgba(227,142,38,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaad61', endColorstr='#e38e26', GradientType=1 );
+}
+#apply:hover,#norms:hover{
+	background: radial-gradient(ellipse at center center , rgb(201, 110, 94) 0%, rgb(206, 135, 126) 0%, rgb(189, 89, 76) 71%, rgb(193, 82, 68) 75%, rgb(185, 93, 85) 100%) repeat scroll 0% 0% transparent;
+}
+#prospectus:hover,#report-query:hover{
+background: rgba(128,45,65,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, , color-stop(0%, rgba(128,45,65,1)), color-stop(88%, rgba(128,45,65,1)), color-stop(100%, rgba(80,27,40,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+background: radial-gradient(ellipse at center, rgba(128,45,65,1) 0%, rgba(128,45,65,1) 88%, rgba(80,27,40,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#802d41', endColorstr='#501b28', GradientType=1 );
+}
+#apply-btn{
+	
+    background: none repeat scroll 0% 0% rgb(61, 148, 9);
+    border: 1px solid rgb(41, 105, 29);
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    display: none;
+    cursor: pointer;
+    bottom: 8%;
+    margin-left: 35%;
+    position: absolute;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    height: 4%;
+    width: 11%;
+    font-family: "Dosis";
+}

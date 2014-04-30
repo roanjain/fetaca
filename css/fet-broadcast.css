@@ -1,0 +1,22 @@
+.rightcontainer{
+	width: 205px;height: 580px;margin-top:5%;margin-bottom:5%;font-family:'Dosis';
+margin-left: 1%;border-right: 1px solid silver;border-left: 1px solid silver;outline: 1px solid silver;padding: 2px;
+}
+#broadcast{
+	font-family: 'Dosis';width:100%;background: white;height: 32px;color: crimson;
+	border-bottom: 1px solid grey;
+}
+#br-faculty-blogs table tr td img{
+	border-radius:65px;
+}
+#label{
+	height: 32px;background: crimson;color: #ffffff;line-height: 27px;
+}
+#br-date-col{
+	width: 25px;margin-bottom: 5px;
+}
+#events-switch{
+	float: right;margin-right: 8px;
+	width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 10px solid #ffffff;position:relative; top: 8px;	
+}
+

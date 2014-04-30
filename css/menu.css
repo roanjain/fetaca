@@ -1,0 +1,68 @@
+#menuwrapper{
+	width: 100%;
+	background :#212121;
+}
+#cssmenu {
+  background:#212121;
+  border: none;
+  border: 0px;
+  margin: 0px;
+  font-family:'Dosis';
+  font-size: 13px;
+  width: 1024px;
+  margin-left:0%;
+  overflow-x:hidden;
+  margin-left:185px;
+}
+#cssmenu ul {
+  padding-right:20%;
+  height: 35px;
+  list-style: none;
+ 
+}
+#cssmenu li {
+  float: right;
+  padding: 0px;
+  padding-left:1%;
+  color: #ffffff;
+  display: block;
+  font-weight: normal;
+  line-height: 35px;
+  margin: 0px;
+  text-align: center;
+  text-decoration: none;
+  
+}
+#cssmenu li a {
+  
+  display: block;
+  font-weight: normal;
+  line-height: 35px;
+  margin: 0px;
+  padding: 0px 25px;
+  text-align: center;
+  text-decoration: none;
+  color:#ffffff;
+}
+
+#cssmenu li a:hover {
+  text-decoration:underline;
+  display: block;
+  font-weight: normal;
+  line-height: 35px;
+  margin: 0px;
+  padding: 0px 25px;
+  text-align: center;
+ 
+  color:#ffffff;
+}
+
+#news{
+	z-index:2000;
+	position: absolute;
+	width:15%;
+	top:5%;
+	border-bottom:1px solid #212121;
+	height:35%;
+	background:#212111;
+}

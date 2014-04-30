@@ -1,0 +1,48 @@
+@import url('reset.css');
+
+/* General Demo Style */
+.clr{
+	clear:both;
+}
+h1{
+	padding:0px;
+	font-size:28px;
+	color:#333;
+	font-weight:100;
+    text-align:center;
+    text-shadow:1px 1px 1px #fff;
+}
+h1 span{
+	font-size:18px;
+	color:#1693eb;
+}
+
+/* Header Style */
+.header{
+	line-height:24px;
+	font-size:11px;
+	background:#000;
+	opacity:0.9;
+	text-transform:uppercase;
+	z-index:4;
+	-moz-box-shadow:1px 0px 2px #000;
+	-webkit-box-shadow:1px 0px 2px #000;
+	box-shadow:1px 0px 2px #000;
+}
+.header a{
+	padding:0px 2px;
+	letter-spacing:1px;
+	color:#ddd;
+	display:block;
+	float:left;
+}
+.header a:hover{
+	color:#fff;
+}
+.header span.right{
+	float:right;
+}
+.header span.right a{
+	float:none;
+	display:inline;
+}
