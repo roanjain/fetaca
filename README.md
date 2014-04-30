@@ -1,3 +1,3 @@
 fetaca
 ======
-/* FET Agra College Website */
+FET Agra College Website
