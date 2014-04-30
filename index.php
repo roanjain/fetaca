@@ -9,8 +9,8 @@
       }
  </style>
     
-<?php // <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
- // <link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'> ?>
+ <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+ <link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="css/fet-broadcast.css" />
 <link rel='stylesheet' type='text/css' href='css/menu.css' />
 <link rel='stylesheet' type='text/css' href='css/main-menu.css' />
@@ -59,7 +59,7 @@
 	</div>
 </div>
 
-<?php // include 'social-channels.php'; ?>
+<?php include 'social-channels.php'; ?>
 
 <div class="u">
 	<center>
